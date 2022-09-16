@@ -1,4 +1,3 @@
-# Itogovoe-zadanie-obshego-kursa[Zadacha.md](https://github.com/elensherbakova366/Itogovoe-zadanie-obshego-kursa/files/9585431/Zadacha.md)
  Описание итоговой работы.
 =========================================
 По итогам прохождения первого блока обучения по программе "разработчик" для проверки знаний я сделала следующее:
